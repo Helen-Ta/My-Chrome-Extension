@@ -1,0 +1,13 @@
+body {
+    background-image: linear-gradient(rgb(241, 175, 20), rgb(235, 243, 6));
+}
+
+h1 {
+    margin-top: 0;
+    font-family: 'Nabla', cursive;
+    font-size: 35px;
+}
+
+ul {
+    margin-left: -25px;
+}

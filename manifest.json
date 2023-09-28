@@ -1,0 +1,11 @@
+{
+    "name": "Cost Of Living",
+    "version": "1.0.0",
+    "description": "extension shows cost of living in specified city",
+    "manifest_version": 3,
+    "author": "Helen and Andrew",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Cost Of Living"
+    }
+}
